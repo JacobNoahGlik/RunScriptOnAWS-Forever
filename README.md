@@ -15,3 +15,14 @@ Run a python script on an EC2 instance (on AWS) forever, for FREE!
 <br>
 
 ## Step 3: 
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+Credits to [Hitch's](https://www.youtube.com/watch?v=xXirbnUB3NU&ab_channel=TechwithHitch) increadibly quick guide for seting up a free ec2 instance on aws which gave me this idea.
