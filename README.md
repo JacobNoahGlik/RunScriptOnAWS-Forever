@@ -1,4 +1,4 @@
-# RunScriptOnAWS-Forever
+# Run A Python Script On AWS Forever (For Free)
 Run a python script on an EC2 instance (on AWS) forever, for FREE!
 
 <br> 
