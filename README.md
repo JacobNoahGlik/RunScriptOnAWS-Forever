@@ -16,6 +16,9 @@ Run a python script on an EC2 instance (on AWS) forever, for FREE!
 <br>
 
 ## Step 3: Create a new EC2 instance.
+* Scroll to the `Build a Solution` box and click "Launch a virtual machine With EC2"
+  * ![image](https://github.com/JacobNoahGlik/RunScriptOnAWS-Forever/assets/70964953/ed0a3052-e90e-4e31-82ed-5c23ac2fd5b9)
+  * 
 
 
 <br>
