@@ -11,6 +11,8 @@ Run a python script on an EC2 instance (on AWS) forever, for FREE!
 
 ## Step 2: Create a free AWS account
 * Go to [sign up for AWS](https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=header_signup&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start/email) and create your free account
+  * You will need to enter your email twice on aws.com and confirm it in your email inbox. Create a strong password and attach a payment method.
+  * ![image](https://github.com/JacobNoahGlik/RunScriptOnAWS-Forever/assets/70964953/b21fee5e-9b2c-42a2-8f52-d5002d7a2acb)
   * Note: you may need to attach a credit card to this account, and a $1 hold may be placed on the account for 3 business days to make sure they have the ability to charge you in case you start using paid services. But as long as you use free cervices (as outlined in this readme), you will not be charged.
 
 <br>
