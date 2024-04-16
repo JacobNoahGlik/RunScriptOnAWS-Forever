@@ -25,7 +25,8 @@ Create EC2:
 Launch EC2:
 * Click on orange drop-box labeled: `Launch instance`
 * This will open two options (`Launch instance`, and `Launchinstance from template`) chose `Launch instance`
-* << Image >>
+![image](https://github.com/JacobNoahGlik/RunScriptOnAWS-Forever/assets/70964953/373417f0-a775-4a06-829e-d890bf653628)
+
 
 Configure:
 * Give your EC2 instance a name
