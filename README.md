@@ -34,7 +34,7 @@ Configure:
  * It will have the following subtext """Amazon Linux 2023 AMI | ami-0578f2b35d0328762 (64-bit (x86), uefi-preferred) / ami - ..."""
  * But the important thing is that it's "Free tier eligible" so you won't be charged no matter how many you have or how long you run them
 * << Image >> 
-
+* Launch
 
 <br>
 
