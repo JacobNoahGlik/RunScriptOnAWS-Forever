@@ -15,10 +15,26 @@ Run a Python script on an EC2 instance (on AWS) forever, for FREE!
   * You must enter your email twice on the `aws create account website` and confirm it by typing in the verification number sent to your inbox. Create a strong password and attach a payment method.
   * Note: you may need to attach a credit card to this account, and a $1 hold may be placed on the account for 3 business days to make sure AWS can charge you in case you start using paid services. But as long as you use free services (as outlined in this readme), you will not be charged.
 <details>
-  <summary>Screenshots of every step (when creating your free AWS account) outlined above</summary>
-  <p>Step-by-step instructions for creating a free AWS account.</p>
+  <summary>  * Screenshots of every step (when creating your free AWS account) outlined above</summary>
+  <p>10 instructions on how to sign up for a free AWS account</p>
   <img src="Step2/SignUpForAWS.png" alt="Screenshot 1">
-  ![image](https://github.com/JacobNoahGlik/RunScriptOnAWS-Forever/assets/70964953/b21fee5e-9b2c-42a2-8f52-d5002d7a2acb) ![image](https://github.com/JacobNoahGlik/RunScriptOnAWS-Forever/assets/70964953/4067ddf8-d981-41e6-905b-ccfba660ce4c) ![image](https://github.com/JacobNoahGlik/RunScriptOnAWS-Forever/assets/70964953/bec37588-8693-4527-96a0-eccf145862e5) ![image](https://github.com/JacobNoahGlik/RunScriptOnAWS-Forever/assets/70964953/3b0c0063-e685-4a1a-98f0-2aa8ef0a1c9d) ![image](https://github.com/JacobNoahGlik/RunScriptOnAWS-Forever/assets/70964953/6e521d26-b6f6-47df-b72d-e14959850587) ![image](https://github.com/JacobNoahGlik/RunScriptOnAWS-Forever/assets/70964953/346ab0c8-78b6-4ed0-bd8f-1c391f68388a) ![image](https://github.com/JacobNoahGlik/RunScriptOnAWS-Forever/assets/70964953/1a64d598-c20b-4e15-b97a-cdfe2a60ad9f) ![image](https://github.com/JacobNoahGlik/RunScriptOnAWS-Forever/assets/70964953/56d3c136-1e08-4a70-8bf9-e097d37395f0) ![image](https://github.com/JacobNoahGlik/RunScriptOnAWS-Forever/assets/70964953/c5a0ba70-ca5e-48df-a1ae-7cdb311b53a7) ![image](https://github.com/JacobNoahGlik/RunScriptOnAWS-Forever/assets/70964953/4190eb9f-e61e-4115-a041-df8f16e6df62) ![image](https://github.com/JacobNoahGlik/RunScriptOnAWS-Forever/assets/70964953/8149052c-1614-4f82-8bf2-8d2789b91188) ![image](https://github.com/JacobNoahGlik/RunScriptOnAWS-Forever/assets/70964953/897de783-cc74-48f3-a051-3933c3db2eca) ![image](https://github.com/JacobNoahGlik/RunScriptOnAWS-Forever/assets/70964953/c60de612-910e-46f1-a430-12ea075a1ef1) ![image](https://github.com/JacobNoahGlik/RunScriptOnAWS-Forever/assets/70964953/3aa1b20c-a26a-4c05-bc6a-edfd3cbded87)
+  <img src="Step2/VerifyYourEmailAddress.png" alt="Screenshot 2">
+  <img src="Step2/EnterVerificationCode.png" alt="Screenshot 3">
+  <img src="Step2/CreateYourPassword.png" alt="Screenshot 4">
+  <img src="Step2/AddContactInfo.png" alt="Screenshot 5">
+  <img src="Step2/AddPaymentMethod.png" alt="Screenshot 6">
+  <img src="Step2/AddPhoneNumber.png" alt="Screenshot 7">
+  <img src="Step2/VerifyViaPhone.png" alt="Screenshot 8">
+  <img src="Step2/ChooseSupportPlan.png" alt="Screenshot 9">
+  <img src="Step2/Congratulations.png" alt="Screenshot 10">
+</details>
+<details>
+  <summary>  * Screenshots of every step of signing into your AWS account</summary>
+  <p>4 instructions on how to sign in to AWS as the root user</p>
+  <img src="Step2/SignInStep1.png" alt="Screenshot 1">
+  <img src="Step2/SignInStep2.png" alt="Screenshot 2">
+  <img src="Step2/SignInStep3.png" alt="Screenshot 3">
+  <img src="Step2/SignInStep4.png" alt="Screenshot 4">
 </details>
 
 <br>
