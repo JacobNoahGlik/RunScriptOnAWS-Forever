@@ -17,20 +17,32 @@ Run a Python script on an EC2 instance (on AWS) forever, for FREE!
 <details>
   <summary>Screenshots of every step (when creating your free AWS account) outlined above</summary>
   <p>10 instructions on how to sign up for a free AWS account</p>
+  <p>
+   Enter email, verify email, and enter password:
+  </p>
   <img src="Step2/SignUpForAWS.png" alt="Screenshot 1">
   <img src="Step2/VerifyYourEmailAddress.png" alt="Screenshot 2">
   <img src="Step2/EnterVerificationCode.png" alt="Screenshot 3">
   <img src="Step2/CreateYourPassword.png" alt="Screenshot 4">
+  <p>
+   Add contact Info, add payment method, and verify:
+  </p>
   <img src="Step2/AddContactInfo.png" alt="Screenshot 5">
   <img src="Step2/AddPaymentMethod.png" alt="Screenshot 6">
   <img src="Step2/AddPhoneNumber.png" alt="Screenshot 7">
   <img src="Step2/VerifyViaPhone.png" alt="Screenshot 8">
+  <p>
+   Choose the free plan and you are done!
+  </p>
   <img src="Step2/ChooseSupportPlan.png" alt="Screenshot 9">
   <img src="Step2/Congratulations.png" alt="Screenshot 10">
 </details>
 <details>
-  <summary>  * Screenshots of every step of signing into your AWS account</summary>
+  <summary>Screenshots of every step of signing into your AWS account</summary>
   <p>4 instructions on how to sign in to AWS as the root user</p>
+  <p>
+   Sign in as the root user using your username and password:
+  </p>
   <img src="Step2/SignInStep1.png" alt="Screenshot 1">
   <img src="Step2/SignInStep2.png" alt="Screenshot 2">
   <img src="Step2/SignInStep3.png" alt="Screenshot 3">
