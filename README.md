@@ -14,7 +14,7 @@ Run a Python script on an EC2 instance (on AWS) forever, for FREE!
 * Go to [sign up for AWS](https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=header_signup&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start/email) and create your free account
   * You must enter your email twice on the `aws create account website` and confirm it by typing in the verification number sent to your inbox. Create a strong password and attach a payment method.
   * Note: you may need to attach a credit card to this account, and a $1 hold may be placed on the account for 3 business days to make sure AWS can charge you in case you start using paid services. But as long as you use free services (as outlined in this readme), you will not be charged.
-  * <details>
+<details>
   <summary>Screenshots of every step (when creating your free AWS account) outlined above</summary>
   <p>10 instructions on how to sign up for a free AWS account</p>
   <img src="Step2/SignUpForAWS.png" alt="Screenshot 1">
@@ -28,7 +28,7 @@ Run a Python script on an EC2 instance (on AWS) forever, for FREE!
   <img src="Step2/ChooseSupportPlan.png" alt="Screenshot 9">
   <img src="Step2/Congratulations.png" alt="Screenshot 10">
 </details>
-  * <details>
+<details>
   <summary>  * Screenshots of every step of signing into your AWS account</summary>
   <p>4 instructions on how to sign in to AWS as the root user</p>
   <img src="Step2/SignInStep1.png" alt="Screenshot 1">
